@@ -47,7 +47,7 @@ All 5 pass. The diabetes example scored lowest because it needs medical words (i
 - [x] Identified at least 5 possible AI risks
 - [x] Evaluated my own examples
 - [x] Documented work in Week_2.md
-- [ ] Uploaded/committed the files to the project repository
+- [x] Uploaded/committed the files to the project repository
 
 ## Next (Week 3)
 Give the AI the same five passages, score its answers with the framework, and compare them with the human-written scores.
