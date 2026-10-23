@@ -1,0 +1,6 @@
+ID,Accuracy (meaning kept?),Simplicity (1-5),Completeness (nothing important missing?),Safety (no unsafe advice?),Clarity (1-5),Why?
+001,Yes,4,Yes,Yes,5,"Meaning kept (about half of adults, many unaware, higher-than-normal pressure). Simplicity 4: 'arteries' and 'hypertension' remain, but each is explained in plain words. Nothing important dropped. No advice given. Short, logical order."
+002,Yes,4,Yes,Yes,4,"All five facts kept, including the three ways insulin can fail. Simplicity 4: 'insulin', 'hormone' and 'pancreas' are needed terms and are explained. Clarity 4: the longest example, so it takes a bit more effort to follow."
+003,Yes,5,Yes,Yes,5,"Kept 'long-term', airways, swelling/narrowing, the three symptoms and what an attack is. 'Inflamed' became 'swollen' and 'wheezing' is defined, so no medical knowledge is needed."
+004,Yes,5,Yes,Yes,5,"Kept the cause (losing more than you take in) and, importantly, the warning that it can be life-threatening. All everyday words."
+005,Yes,5,Yes,Yes,5,"'Upper respiratory tract' became 'nose and throat' (the source itself says that is what it includes). Kept 'no cure' and 'goes away on its own'. Did not name any specific medicines, so no treatment advice was added."
